@@ -1,0 +1,28 @@
+# Visual Studio build output and temporary files
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.idb
+
+# Visual Studio debug directories
+Debug/
+Release/
+x64/
+x86/
+*.aps
+
+# VS-specific folders
+.vs/
+*.vsidx
+*.vssettings
+
+# Other common ignores
+Thumbs.db
+*.bak
+*.tmp
